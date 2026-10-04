@@ -133,9 +133,7 @@ The development setup can be exposed on a trusted local network by starting Vite
 
 ## Demo
 
-**Video:** _Add your demonstration link here before submitting._
-
-Suggested walkthrough: select a project, submit an update, inspect the status cards, open an evidence trail, then submit a resolution update.
+https://drive.google.com/file/d/1UFVnYGsj6oXr8sYMaWgfnMKzoPrJS7zS/view?usp=sharing
 
 ## Open innovation
 
